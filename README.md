@@ -1,4 +1,6 @@
-#Learn Scrapy on [http://doc.scrapy.org/en/latest/index.html](http://doc.scrapy.org/en/latest/index.html)
+#Learn Scrapy
+
+From [http://doc.scrapy.org/en/latest/index.html](http://doc.scrapy.org/en/latest/index.html) to learn Scrapy
 
 ##tutorial
 
@@ -6,4 +8,4 @@
 
 ##Mininova
 
-[Scrapy at a glance]("http://doc.scrapy.org/en/latest/intro/overview.html#topics-whatelse")
+[Scrapy at a glance](http://doc.scrapy.org/en/latest/intro/overview.html#topics-whatelse)
